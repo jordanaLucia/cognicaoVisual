@@ -11,6 +11,8 @@ Além de imagens disponíveis no Flickr para treinamento e testes.
 1 - Flickr8k_text.zip</br>
 2 - Flickr8k_Dataset.zip</br>
 3 - descriptions.zip</br>
+4 - features.zip</br>
+5 - model-ep004-loss3.543-val_loss3.877.zip</br>
 
 a)Para submeter uma imagem nova ao modelo definido como resultado deste trabalho:</br>
 1 - coloque uma (apenas uma por vez) imagem na pasta ./Cognicao Visual/imagem_teste</br>
