@@ -17,7 +17,7 @@ a)Para submeter uma imagem nova ao modelo definido como resultado deste trabalho
 3 - é importante que os arquivos 'features.pkl', 'tokenizer.pkl', 'descriptions' e o modelo 'model-ep004-loss3.543-val_loss3.877.h5' estejam no diretório home_folder.</br>
 4 - executar o arquivo 'testeNovaFotografia.py'</br>
 
-Para executar todos os passos e verificar se alguma época traz um modelo mais performático</br>
+b)Para executar todos os passos e verificar se alguma época traz um modelo mais performático</br>
 1 - executar o arquivo 'cognicaoVisual.py'</br>
 2 - identificar o modelo mais performático, a partir da nomenclatura, que contém a perda estimada</br>
 3 - seguir o passo-a-passo do item a) alterando o valor da variável modelo para o identificado no passo 2 acima.</br>
