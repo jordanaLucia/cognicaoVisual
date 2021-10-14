@@ -10,6 +10,7 @@ Além de imagens disponíveis no Flickr para treinamento e testes.
 É necessário descompactar as pastas </br>
 1 - Flickr8k_text.zip</br>
 2 - Flickr8k_Dataset.zip</br>
+3 - descriptions.zip</br>
 
 a)Para submeter uma imagem nova ao modelo definido como resultado deste trabalho:</br>
 1 - coloque uma (apenas uma por vez) imagem na pasta ./Cognicao Visual/imagem_teste</br>
