@@ -9,7 +9,7 @@ Além de imagens disponíveis no Flickr para treinamento e testes.
 
 É necessário descompactar as pastas </br>
 1 - Flickr8k_text.zip</br>
-2 - Flickr8k_Dataset.zip</br>
+2 - Flickr8k_Dataset.zip ** Este arquivo foi compactado utilizando 7-zip gerando varios arquivos de 24mb devido à limitacao do github para upload de arquivos maiores que 25MB</br>
 3 - descriptions.zip</br>
 4 - features.zip</br>
 5 - model-ep004-loss3.543-val_loss3.877.zip</br>
